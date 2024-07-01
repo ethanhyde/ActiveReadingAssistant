@@ -1,0 +1,6 @@
+Commands to run/stop MongoDB (i.e. the mongod process) as a macOS service:
+
+Requirements: mongodb (https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/#std-label-install-mdb-community-macos)
+
+brew services start mongodb-community@7.0
+brew services stop mongodb-community@7.0

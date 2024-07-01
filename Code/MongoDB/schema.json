@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "username": "user_username",
+      "password": "password",
+      "notes": [
+        {
+          "pdf_id": "unique_pdf_id",
+          "chapter": [
+            {
+              "chapter_title": "Chapter Title",
+              "sections": [
+                {
+                  "section_number": 1,
+                  "section_title": "Section Title",
+                  "section_notes": "Notes for section"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
